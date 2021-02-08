@@ -1,0 +1,37 @@
+// Place all the styles related to the welcome_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+ 
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+
+ 
+
+
+
+  body {
+    background: url('marek-piwnicki-3EcfVUbjNBw-unsplash.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+
+
+
+
+
+
+
+    p,h1
+    {
+      color:rgb(14, 31, 160);
+      text-align: center;
+    }

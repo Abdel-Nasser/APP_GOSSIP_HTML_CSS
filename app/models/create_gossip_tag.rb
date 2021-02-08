@@ -1,0 +1,2 @@
+class CreateGossipTag < ApplicationRecord
+end
